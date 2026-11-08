@@ -16,3 +16,17 @@ This website showcases my personal projects.
 
 ## Contact
 Contact me through my provided contact details.
+## Technologies Used
+- HTML5
+- CSS3
+- GitHub
+- GitHub Pages
+
+## Website Features
+- Personal introduction
+- Skills section
+- Projects showcase
+- Contact information
+- Responsive design
+
+## Live Website
