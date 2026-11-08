@@ -151,3 +151,18 @@ footer {
         padding: 20px;
     }
 }
+/* Improve website appearance */
+html {
+    scroll-behavior: smooth;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+section {
+    padding: 30px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+}
